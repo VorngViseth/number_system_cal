@@ -50,8 +50,6 @@ int main(){
 
     if (true){
         printf("The answer is : ");
-    }
-    for (; true ;){
         int octal[32];
         int i;
         for (i = 0; ans > 0; i++ ){
@@ -62,6 +60,5 @@ int main(){
             printf("%d", octal[j]);
         }
     }
-    
     return 0 ;
 }
